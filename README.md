@@ -66,7 +66,7 @@ The dataset contains used vehicle sales information including:
 
 ## 🔗 Dashboard Link
 
-👉 *Add your Tableau Public link here*
+👉 https://public.tableau.com/app/profile/ashraf.pinjari./viz/UsedCarPricingAnalysis_17714889437400/KPIOverview?publish=yes
 
 ---
 
