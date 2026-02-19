@@ -8,6 +8,9 @@ This project presents an interactive **Tableau dashboard** analyzing used car pr
 The goal of this project is to demonstrate **data visualization, exploratory analysis, and dashboard storytelling** skills using Tableau.
 
 ---
+## Dashboard Preview
+<img width="1628" height="751" alt="image" src="https://github.com/user-attachments/assets/521f22a6-29c2-4539-be75-991db4c1d63d" />
+
 
 ## 📊 Dashboard Highlights
 
